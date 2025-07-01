@@ -7,7 +7,7 @@ Preorder Traversal: Root → Left → Right
 Postorder Traversal: Left → Right → Root
 
 
-Iterative Approach (Expected for Interviews)
+Iterative Approach
 Preferred in large inputs. Avoids recursion limit, explicit stack
 We'll use stacks for this. */
 
