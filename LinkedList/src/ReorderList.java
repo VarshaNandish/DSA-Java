@@ -84,6 +84,6 @@ public class ReorderList {
         head2.next.next = new ListNode5(3);
         head2.next.next.next = new ListNode5(4);
         reorderList(head2);
-        printList(head2); 
+        printList(head2);
     }
 }
