@@ -41,7 +41,7 @@ Check all substrings:
 "gfg" → dp[5]=T && "gfg" in dict → dp[8] = T
 
 Final dp = [T, T, F, F, F, T, F, F, T]
-dp[8] = T → return true 
+dp[8] = T → return true
  */
 
 import java.util.*;

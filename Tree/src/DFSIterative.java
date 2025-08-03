@@ -14,11 +14,11 @@ We'll use stacks for this. */
 
 import java.util.Stack;
 
-class TreNode {
+class TreeNode {
     int val;
     TreeNode left, right;
 
-    TreNode(int val) {
+    TreeNode(int val) {
         this.val = val;
     }
 }
