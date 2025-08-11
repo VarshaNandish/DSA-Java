@@ -8,9 +8,6 @@ Example:
    Output: [0, 1, 2, 3, 4, 5]
 
 */
-
-
-
 import java.util.*;
 
 // Define the binary tree node class
