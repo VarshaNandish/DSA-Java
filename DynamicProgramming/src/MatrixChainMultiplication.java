@@ -55,4 +55,3 @@ class MatrixChainMultiplication {
         System.out.println("Minimum multiplications = " + MCM(arr, 1, n - 1, dp));
     }
 }
- */
